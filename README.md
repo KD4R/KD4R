@@ -59,15 +59,9 @@
 
 <br/>
 
-<!--
-🐍 OPTIONAL: contribution snake animation.
-Add .github/workflows/snake.yml (provided separately) to your KD4R/KD4R repo,
-then uncomment the line below once the workflow has run at least once.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/KD4R/KD4R/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
--->
 
 ### 🤝 Connect
 
