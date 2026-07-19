@@ -41,8 +41,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KD4R&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD4R&layout=compact&theme=radical&hide_border=true" width="29%" />
 </p>
 
 <p align="center">
