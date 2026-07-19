@@ -53,10 +53,6 @@
 
 <br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/KD4R/KD4R/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
 ### 🤝 Connect
 
 <p align="center">
